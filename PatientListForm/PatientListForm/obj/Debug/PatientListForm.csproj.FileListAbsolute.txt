@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\bin\Debug\PatientListDB.mdf
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\bin\Debug\PatientListDB_log.ldf
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\bin\Debug\PatientListForm.exe.config
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\bin\Debug\PatientListForm.exe
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\bin\Debug\PatientListForm.pdb
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\obj\Debug\PatientListForm.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\obj\Debug\PatientListForm.PatientList.resources
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\obj\Debug\PatientListForm.Properties.Resources.resources
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\obj\Debug\PatientListForm.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\obj\Debug\PatientListForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\obj\Debug\PatientListForm.exe
+C:\Users\ASUS\source\repos\PatientListForm\PatientListForm\obj\Debug\PatientListForm.pdb
