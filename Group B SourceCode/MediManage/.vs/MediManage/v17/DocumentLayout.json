@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\medimanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\medimanage\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\userregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\userregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\userregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\userregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|d:\\software engineer\\year 1\\senester 2\\object oriented programming with c#\\group b sourcecode\\medimanage\\medimanage\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E4ED1A6-11C5-4121-BE8D-127692CF5851}|MediManage\\MediManage.csproj|solutionrelative:medimanage\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "MediManage\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\LoginForm.Designer.cs",
+              "RelativeToolTip": "MediManage\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwEkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:19:43.682Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inventoryForm.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\inventoryForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\inventoryForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\inventoryForm.cs",
+              "RelativeToolTip": "MediManage\\inventoryForm.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:23:53.283Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userForm.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\userForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userForm.cs [Design]",
+              "RelativeToolTip": "MediManage\\userForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:21:26.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profileForm.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\profileForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\profileForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\profileForm.cs",
+              "RelativeToolTip": "MediManage\\profileForm.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:21:13.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\HomeForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\HomeForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\HomeForm.cs [Design]",
+              "RelativeToolTip": "MediManage\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:23:14.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\HomeForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\HomeForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\HomeForm.cs",
+              "RelativeToolTip": "MediManage\\HomeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:24:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\Program.cs",
+              "RelativeDocumentMoniker": "MediManage\\Program.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\Program.cs",
+              "RelativeToolTip": "MediManage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T15:59:05.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "profileForm.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\profileForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\profileForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\profileForm.cs [Design]",
+              "RelativeToolTip": "MediManage\\profileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:20:56.791Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\LoginForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\LoginForm.cs",
+              "RelativeToolTip": "MediManage\\LoginForm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:25:30.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userRegistrationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userRegistrationForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\userRegistrationForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userRegistrationForm.cs [Design]",
+              "RelativeToolTip": "MediManage\\userRegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:21:55.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "userRegistrationForm.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userRegistrationForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\userRegistrationForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userRegistrationForm.cs",
+              "RelativeToolTip": "MediManage\\userRegistrationForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:22:01.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "userForm.cs",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\userForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\userForm.cs",
+              "RelativeToolTip": "MediManage\\userForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAC4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:21:31.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "inventoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\inventoryForm.cs",
+              "RelativeDocumentMoniker": "MediManage\\inventoryForm.cs",
+              "ToolTip": "D:\\Software Engineer\\Year 1\\senester 2\\Object Oriented Programming with C#\\Group B SourceCode\\MediManage\\MediManage\\inventoryForm.cs [Design]",
+              "RelativeToolTip": "MediManage\\inventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T20:17:12.442Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

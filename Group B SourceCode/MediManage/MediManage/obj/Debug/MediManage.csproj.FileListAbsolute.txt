@@ -1,0 +1,119 @@
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\bin\Debug\MediManage.exe.config
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\bin\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\bin\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.csproj.AssemblyReference.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.inventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.Properties.Resources.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.csproj.GenerateResource.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.csproj.CoreCompileInputs.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\bin\Debug\inventory_db.mdf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C#OOP Group Project\MediManage\MediManage\bin\Debug\inventory_db_log.ldf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\bin\Debug\inventory_db.mdf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\bin\Debug\inventory_db_log.ldf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\bin\Debug\MediManage.exe.config
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\bin\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\bin\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.csproj.AssemblyReference.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.inventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.Properties.Resources.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.csproj.GenerateResource.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.csproj.CoreCompileInputs.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.userRegistrationForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\bin\Debug\Siticone.Desktop.UI.dll
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.csproj.Up2Date
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.HelpForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.HelpLoginForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.HelpHomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.HelpInventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.HelpPatientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.HelpUserForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.userForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C#OOP Group Project\MediManage\MediManage\obj\Debug\MediManage.HomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\inventory_db.mdf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\inventory_db_log.ldf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\MediManage.exe.config
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\Siticone.Desktop.UI.dll
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.AssemblyReference.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpHomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpInventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpLoginForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpPatientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpUserForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.inventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.Properties.Resources.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.userForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.userRegistrationForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.GenerateResource.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.CoreCompileInputs.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.Up2Date
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.patientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.addPatientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.profileForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.UserSession.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\GP Project all forms\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.LoadingForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\inventory_db.mdf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\inventory_db_log.ldf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\MediManage.exe.config
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\bin\Debug\Siticone.Desktop.UI.dll
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.AssemblyReference.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.addPatientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpHomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpInventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpLoginForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpPatientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HelpUserForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.HomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.inventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.LoadingForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.patientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.UserSession.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.profileForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.Properties.Resources.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.userForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.userRegistrationForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.GenerateResource.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.CoreCompileInputs.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.csproj.Up2Date
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\C# and SAD Final Group Project (Group B)\MediManage\MediManage\obj\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\bin\Debug\inventory_db.mdf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\bin\Debug\inventory_db_log.ldf
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\bin\Debug\MediManage.exe.config
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\bin\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\bin\Debug\MediManage.pdb
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\bin\Debug\Siticone.Desktop.UI.dll
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.csproj.AssemblyReference.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.addPatientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.HelpForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.HelpHomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.HelpInventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.HelpLoginForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.HelpPatientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.HelpUserForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.HomeForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.inventoryForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.LoadingForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.patientForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.UserSession.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.profileForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.Properties.Resources.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.userForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.userRegistrationForm.resources
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.csproj.GenerateResource.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.csproj.CoreCompileInputs.cache
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.csproj.Up2Date
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.exe
+D:\Software Engineer\Year 1\senester 2\Object Oriented Programming with C#\Group B SourceCode\MediManage\MediManage\obj\Debug\MediManage.pdb
